@@ -1,6 +1,8 @@
 # ***Java_DataStructures_implementation***
 *Implementation of varius data structures using java.*
-\n DataStructures Implementes:
+
+DataStructures Implementes:
+
 * LinkedList
 * Doubly LinkedList
 * Circular LinkedList
