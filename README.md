@@ -2,7 +2,9 @@
 *Implementation of varius data structures using java.*
 DataStructures Implementes:
 * LinkedList
+* Doubly LinkedList
+* Circular LinkedList
 * Stack implementation using Array
 * Stack implementaion using LinkedList
 * Queue implementaion using LinkedList
-*
+* Implementation of Binary Search Tree (BST)
